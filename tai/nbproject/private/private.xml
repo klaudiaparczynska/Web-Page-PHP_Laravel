@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/profile.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/users.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/comments.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/bootstrap/app.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/database/migrations/2022_01_17_143407_create_avatar_column.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/commentsForm.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/public/styl.css</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/autor.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/CommentsController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/.env</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/Auth/ResetPasswordController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/UserAvatarController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/app/Http/Controllers/ProfileController.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/home.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/welcome.blade.php</file>
+            <file>file:/C:/xampp/htdocs/tai/resources/views/commentsEditForm.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
